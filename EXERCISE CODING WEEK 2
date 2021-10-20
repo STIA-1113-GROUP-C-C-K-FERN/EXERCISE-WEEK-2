@@ -5,7 +5,7 @@ public class OneDayCampusLife {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println ("Good Morning, sir and my fellow friends.");
-		System.out.println ("In the case, i will talik about my one day in campus life.");
+		System.out.println ("In the case, i will talk about my one day in campus life.");
 		System.out.println ("First at all, i'm wake up at 8'o clock to got some breakfasts");
 		System.out.println ("At 10:50am Doing the programming assignment");
 		System.out.println ("At 11:00am Submit the assignment to Github");
